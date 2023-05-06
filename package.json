@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/shajumohamed/turnserver#readme",
   "dependencies": {
-    "node-turn": "0.0.4"
+    "node-turn": "0.0.6"
   }
 }
